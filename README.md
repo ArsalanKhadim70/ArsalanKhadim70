@@ -84,7 +84,10 @@ Frontend-Focused Full Stack Developer based in Karachi, Pakistan. Recently compl
 
 <div align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=ArsalanKhadim70&show_icons=true&theme=merko&hide_border=true&count_private=true&bg_color=0d0d0d&title_color=00fff0&icon_color=7b2fff&text_color=c9d1d9&ring_color=00fff0" alt="GitHub Stats"/>
-  
+
+<img height="180" src="https://streak-stats.demolab.com?user=ArsalanKhadim70&theme=dark&hide_border=true&background=0d0d0d&ring=00fff0&fire=ff2d78&currStreakLabel=00fff0&sideLabels=7b2fff&dates=8b949e" alt="Arsalan's GitHub Streak"/>
+</div>
+
 <div align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArsalanKhadim70&layout=compact&theme=merko&hide_border=true&bg_color=0d0d0d&title_color=00fff0&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
 </div>

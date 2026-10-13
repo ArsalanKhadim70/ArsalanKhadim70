@@ -44,7 +44,7 @@ A passionate web developer who recently graduated from an intensive 16-month **F
 
 <div align="center">
   <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ArsalanKhadim70&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Arsalan's GitHub Stats" width="48%" />
+ <img src="https://github-readme-stats.vercel.app/api?username=ArsalanKhadim70&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Arsalan's GitHub Stats" width="48%" />
 
   <!-- Top Languages Card -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArsalanKhadim70&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="Top Languages" width="48%" />
